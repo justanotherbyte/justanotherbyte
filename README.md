@@ -24,3 +24,14 @@ Nice to meet you! My name on the internet is Moanie! I'm currently an avid Pytho
 <img align="left" alt="Redis" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/redis-83994.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" />
 <img align="left" alt="Tailwind CSS" width="26px" src="https://symbols.getvecta.com/stencil_97/3_tailwind-css-icon.43c02f69bf.png" />
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+
+![Moanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=moanie&theme=vue-dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moanie&theme=vue-dark)
