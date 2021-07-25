@@ -10,3 +10,7 @@ Nice to meet you! My name on the internet is Moanie! I'm currently an avid Pytho
 - 📫 How to reach me: my discord: moanie#6598 (ID: 691406006277898302)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have the same birthday as Kyrie Irving
+
+## Technologies I work with:
+- Python <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="15" height="auto">
+- PostgreSQL <img src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png" width="15" height="auto">
