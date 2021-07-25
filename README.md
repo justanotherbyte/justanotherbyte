@@ -31,5 +31,5 @@ Nice to meet you! My name on the internet is Moanie! I'm currently an avid Pytho
 ## My Stats
 
 ![Moanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=moanie&theme=vue-dark&show_icons=true)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moanie&theme=vue-dark&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moanie&theme=vue-dark)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moanie&theme=vue-dark&layout=compact)
