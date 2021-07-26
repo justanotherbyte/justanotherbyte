@@ -30,6 +30,6 @@ Nice to meet you! My name on the internet is Moanie! I'm currently an avid Pytho
 
 ## My Stats
 
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=moanie&theme=vue-dark&show_icons=true">
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=moanie&theme=vue-dark">
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=moanie&theme=vue-dark&show_icons=true&work=work">
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=moanie&theme=vue-dark&work=work">
 <img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/wakatime?username=moanie&theme=vue-dark&layout=compact">
