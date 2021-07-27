@@ -26,6 +26,7 @@ Nice to meet you! My name on the internet is Vish! I'm currently an avid Python 
 <img align="left" alt="Tailwind CSS" width="26px" src="https://symbols.getvecta.com/stencil_97/3_tailwind-css-icon.43c02f69bf.png" />
 <img align="left" alt="FastAPI" width="26px" src="https://styles.redditmedia.com/t5_22y58b/styles/communityIcon_r5ax236rfw961.png" />
 <img align="left" alt="Django" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
+<img align="left" alt="Flask" width="26px" src="https://flask.palletsprojects.com/en/2.0.x/_static/flask-icon.png" />
 
 <br/>
 <br/>
