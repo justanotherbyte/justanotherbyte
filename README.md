@@ -32,4 +32,4 @@ Nice to meet you! My name on the internet is Vish! I'm currently an avid Python 
 
 <img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=someotherbytes&theme=vue-dark&show_icons=true&work=work">
 <img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=someotherbytes&theme=vue-dark&work=work">
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/wakatime?username=someotherbytes&theme=vue-dark&layout=compact">
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/wakatime?username=someotherbytes&theme=vue-dark&layout=compact&work=work">
