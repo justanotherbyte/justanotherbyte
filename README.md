@@ -1,6 +1,6 @@
-# Hey There. I'm Moanie!
+# Hey There. I'm Vish!
 
-Nice to meet you! My name on the internet is Moanie! I'm currently an avid Python developer, working on Discord Bots, API's, websites and asynchronous libraries! I'm currently in Year 9, and I work with a number of technologies such as Redis, PostgreSQL, MongoDB, Python, HTML and Tailwind CSS!
+Nice to meet you! My name on the internet is Vish! I'm currently an avid Python developer, working on Discord Bots, API's, websites and asynchronous libraries! I'm currently in Year 9, and I work with a number of technologies such as Redis, PostgreSQL, MongoDB, Python, HTML and Tailwind CSS!
 
 ## I'm a Son, Brother and Developer!
 
@@ -30,6 +30,6 @@ Nice to meet you! My name on the internet is Moanie! I'm currently an avid Pytho
 
 ## My Stats
 
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=moanie&theme=vue-dark&show_icons=true&work=work">
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=moanie&theme=vue-dark&work=work">
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/wakatime?username=moanie&theme=vue-dark&layout=compact">
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=someotherbytes&theme=vue-dark&show_icons=true&work=work">
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=someotherbytes&theme=vue-dark&work=work">
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/wakatime?username=someotherbytes&theme=vue-dark&layout=compact">
