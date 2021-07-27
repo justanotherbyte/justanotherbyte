@@ -30,6 +30,6 @@ Nice to meet you! My name on the internet is Vish! I'm currently an avid Python 
 
 ## My Stats
 
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=someotherbytes&theme=vue-dark&show_icons=true&work=work">
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=someotherbytes&theme=vue-dark&work=work">
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=justanotherbyte&theme=vue-dark&show_icons=true&work=work">
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=justanotherbyte&theme=vue-dark&work=work">
 <img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/wakatime?username=moanie&theme=vue-dark&layout=compact&work=work">
