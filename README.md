@@ -23,7 +23,7 @@ Nice to meet you! My name on the internet is Vish! I'm currently an avid Python 
 <img align="left" alt="MySQL" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
 <img align="left" alt="Redis" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/redis-83994.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" />
-<img align="left" alt="Tailwind CSS" width="26px" src="https://symbols.getvecta.com/stencil_97/3_tailwind-css-icon.43c02f69bf.png" />
+<img align="left" alt="Tailwind CSS" width="26px" src="https://media.discordapp.net/attachments/822902690010103818/917458059700371566/unknown.png" />
 <img align="left" alt="FastAPI" width="26px" src="https://styles.redditmedia.com/t5_22y58b/styles/communityIcon_r5ax236rfw961.png" />
 <img align="left" alt="Django" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
 <img align="left" alt="Flask" width="26px" src="https://flask.palletsprojects.com/en/2.0.x/_static/flask-icon.png" />
