@@ -1,3 +1,5 @@
+![Banner](https://media.discordapp.net/attachments/822902690010103818/923699752103710720/dpqj141vhdADrfb18P5gicMQylC7H0gP8fuuGiJPYjnycAAAAASUVORK5CYII.png)
+
 # Hey There. I'm Vish!
 
 Nice to meet you! My name on the internet is Vish! I'm currently an avid Python developer, working on Discord Bots, API's, websites and asynchronous libraries! I'm currently in Year 10, and I work with a number of technologies such as Redis, PostgreSQL, MongoDB, Python, HTML and Tailwind CSS!
