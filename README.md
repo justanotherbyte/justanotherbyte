@@ -1,4 +1,4 @@
-![Banner](https://media.discordapp.net/attachments/822902690010103818/923699752103710720/dpqj141vhdADrfb18P5gicMQylC7H0gP8fuuGiJPYjnycAAAAASUVORK5CYII.png)
+![Banner](https://media.discordapp.net/attachments/822902690010103818/927687782955122718/HyJQU8IVFIAAAAAElFTkSuQmCC.png)
 
 # Hey There. I'm Vish!
 
