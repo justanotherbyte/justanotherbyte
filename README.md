@@ -33,6 +33,10 @@ Nice to meet you! My name on the internet is Vish! I'm currently an avid Python 
 <br/>
 <br/>
 
+## Donate
+
+<iframe id='kofiframe' src='https://ko-fi.com/justanotherbyte/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='justanotherbyte'></iframe>
+
 ## My Stats
 
 <img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=justanotherbyte&theme=vue-dark&show_icons=true&work=work">
