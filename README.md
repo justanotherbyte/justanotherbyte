@@ -34,8 +34,7 @@ Nice to meet you! My name on the internet is Vish! I'm currently an avid Python 
 <br/>
 
 ## Donate
-
-<iframe id='kofiframe' src='https://ko-fi.com/justanotherbyte/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='justanotherbyte'></iframe>
+<a href='https://ko-fi.com/B0B77Z9EN' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## My Stats
 
