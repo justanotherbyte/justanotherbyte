@@ -6,7 +6,7 @@ Nice to meet you! My name on the internet is Vish! I'm currently an avid Python 
 
 ## I'm a Son, Brother and Developer!
 
-- 🔭 I’m currently working on an API
+- 🔭 I’m currently working on a machine learning platform
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on Python Projects
 - 🤔 I’m looking for help with Rust Projects
