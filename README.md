@@ -2,7 +2,7 @@
 
 # Hey There. I'm Vish!
 
-Nice to meet you! My name on the internet is Vish! I'm currently an avid Python developer, working on Discord Bots, API's, websites and asynchronous libraries! I'm currently in Year 11, and I work with a number of technologies such as Redis, PostgreSQL, MongoDB, Python, HTML and Tailwind CSS!
+Nice to meet you! My name on the internet is Vish! I'm currently an avid Python developer, working on Discord Bots, API's, websites and asynchronous libraries! I'm currently in Year 12, and I work with a number of technologies such as Redis, PostgreSQL, MongoDB, Python, HTML and Tailwind CSS!
 
 ## I'm a Son, Brother and Developer!
 
@@ -11,7 +11,7 @@ Nice to meet you! My name on the internet is Vish! I'm currently an avid Python 
 - 👯 I’m looking to collaborate on Python Projects
 - 🤔 I’m looking for help with Rust Projects
 - 💬 Ask me about my projects (anything really)
-- 📫 How to reach me: my discord: mooon#9112 (ID: 691406006277898302)
+- 📫 How to reach me: my discord: justanotherbyte (ID: 1100300026468630578)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have the same birthday as Kyrie Irving
 
