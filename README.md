@@ -1,17 +1,6 @@
-![Banner](https://media.discordapp.net/attachments/822902690010103818/927687782955122718/HyJQU8IVFIAAAAAElFTkSuQmCC.png)
-
 # Hey There. I'm Vish!
 
 Nice to meet you! My name on the internet is Vish! I'm currently an avid Python developer, working on Discord Bots, API's, websites and asynchronous libraries! I'm currently in Year 12, and I work with a number of technologies such as Redis, PostgreSQL, MongoDB, Python, HTML and Tailwind CSS!
-
-## I'm a Son, Brother and Developer!
-
-- 🔭 I’m currently working on a machine learning platform
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on Python Projects
-- 🤔 I’m looking for help with Rust Projects
-- 💬 Ask me about my projects (anything really)
-- 📫 How to reach me: my discord: justanotherbyte (ID: 1100300026468630578)
 
 ## Technologies and Tools I work with:
 
@@ -20,8 +9,6 @@ Nice to meet you! My name on the internet is Vish! I'm currently an avid Python 
 ## Donate
 <a href='https://ko-fi.com/B0B77Z9EN' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-## My Stats
-
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=justanotherbyte&theme=vue-dark&show_icons=true&work=work">
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=justanotherbyte&theme=vue-dark&work=work">
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/wakatime?username=moanie&theme=vue-dark&layout=compact&work=yesyeshello">
+## Contacting Me
+- Discord: `justanotherbyte`
+- Email: `reachvishm@gmail.com`
