@@ -1,6 +1,6 @@
 # Hey There. I'm Vish!
 
-Nice to meet you! My name on the internet is Vish! I'm currently an avid Python developer, working on Discord Bots, API's, websites and asynchronous libraries! I'm currently in Year 12, and I work with a number of technologies such as Redis, PostgreSQL, MongoDB, Python, HTML and Tailwind CSS!
+Nice to meet you! My name on the internet is Vish! I'm currently an avid Python developer, working on Discord Bots, API's, websites and asynchronous libraries! I'm currently in Year 13, and I work with a number of technologies such as Redis, PostgreSQL, MongoDB, Python, HTML and Tailwind CSS!
 
 ## Technologies and Tools I work with:
 
